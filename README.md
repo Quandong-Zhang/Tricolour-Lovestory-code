@@ -1,2 +1,3 @@
 # Tricolour-Lovestory-code
-反编译三色绘恋游戏文件得到的源码
+反编译三色绘恋游戏文件得到的源码<br>
+powered by KrkrExtract
